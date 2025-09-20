@@ -41,11 +41,11 @@ Below is a non-actionable, conceptual flow illustrating typical components and d
 ```mermaid
 flowchart LR
     A[Delivery Vector]
-    B[Victim Host (Payload)]
+    B[Victim Host]
     C[Persistence & Evasion]
     D[C2 Infrastructure / Operator]
     E[Exfiltration / Commands]
-    F[Analysis Environment (Sandbox / Lab)]
+    F[Analysis Environment]
 
     A --> B
     B --> C
@@ -113,5 +113,4 @@ A special thanks goes to **PakReverseLab** and **Osman** for their contributions
 This material is intended strictly for lawful, ethical research, defensive analysis, and educational use. Misuse may be illegal and harmful. The author and distributor of this document do not endorse or support malicious use.
 
 ---
-
 
