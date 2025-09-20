@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Vector-OS/Vector-XWorm-6v/blob/main/bannerwormx.png" alt="Vector XWorm Banner" width="800">
+</p>
+
+
 # Vector-XWorm-6v — Repository Overview (Safe, Research-Oriented README)
 
 > **Important:** This document is written for **research, educational, and defensive** purposes only. It intentionally avoids operational instructions, exploitation techniques, or any details that would enable malicious use. Do not use this code for harmful activity. Consult local laws and institutional policies before performing any analysis.
